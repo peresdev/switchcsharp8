@@ -1,0 +1,13 @@
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\bin\Debug\netcoreapp3.1\switchcsharp8.exe
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\obj\Debug\netcoreapp3.1\switchcsharp8.csprojAssemblyReference.cache
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\obj\Debug\netcoreapp3.1\switchcsharp8.AssemblyInfoInputs.cache
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\obj\Debug\netcoreapp3.1\switchcsharp8.AssemblyInfo.cs
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\bin\Debug\netcoreapp3.1\switchcsharp8.deps.json
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\bin\Debug\netcoreapp3.1\switchcsharp8.runtimeconfig.json
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\bin\Debug\netcoreapp3.1\switchcsharp8.runtimeconfig.dev.json
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\bin\Debug\netcoreapp3.1\switchcsharp8.dll
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\bin\Debug\netcoreapp3.1\switchcsharp8.pdb
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\obj\Debug\netcoreapp3.1\switchcsharp8.csproj.CoreCompileInputs.cache
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\obj\Debug\netcoreapp3.1\switchcsharp8.dll
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\obj\Debug\netcoreapp3.1\switchcsharp8.pdb
+C:\Users\LeandroTrabalho\source\repos\switchcsharp8\switchcsharp8\obj\Debug\netcoreapp3.1\switchcsharp8.genruntimeconfig.cache
